@@ -1,0 +1,14 @@
+# ---- 操作系统 / 编辑器产生的垃圾文件 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 编辑器个人配置（不该同步到仓库）----
+.vscode/
+.idea/
+
+# ---- 日志 ----
+*.log
+
+# 说明：这个项目零依赖，所以暂时不需要 node_modules/ 之类的条目。
+# 以后如果引入构建工具（npm / pnpm / vite），在这里补上 node_modules/ 和 dist/ 。
