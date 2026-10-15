@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 网站图标（favicon）：本人手写，非第三方素材 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="章">
+  <rect width="64" height="64" rx="14" fill="#0b1020"/>
+  <text x="32" y="46" font-size="36" text-anchor="middle" fill="#22d3ee"
+        font-family="'PingFang SC','Microsoft YaHei',sans-serif">章</text>
+</svg>
